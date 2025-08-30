@@ -14,6 +14,7 @@ Cover Art File Extension: png
 Groups:
 - Toby Fox
 - group:official
+- UNDERTALE
 Banner Artists:
 - Toby Fox
 - Niklink (edits for wiki)
@@ -334,7 +335,7 @@ URLs:
 - https://www.youtube.com/watch?v=-PuXRXftkDA
 - https://open.spotify.com/track/4LrlsO9cnnNjxBiHeRedjF
 Referenced Tracks:
-- Undertale
+- track:undertale
 Commentary: |-
     <i>Toby Fox:</i> ([collector's edition sheet music booklet](https://www.fangamer.com/products/undertale-game-switch-ps4-vita))
 
@@ -438,7 +439,7 @@ URLs:
 - https://open.spotify.com/track/5Q2YHimqwRHoPifb3H8Nlo
 Referenced Tracks:
 - Undyne
-- Ruins
+- Spear of Justice
 ---
 Track: Spear of Justice
 Duration: '1:55'
@@ -448,7 +449,7 @@ URLs:
 - https://open.spotify.com/track/0wae8KoprNjfrXWjYYHGy9
 Referenced Tracks:
 - Undyne
-- Ruins
+- undyne battle (unused)
 ---
 Track: Ooo
 Duration: 0:14
@@ -463,6 +464,8 @@ URLs:
 - https://tobyfox.bandcamp.com/track/alphys
 - https://www.youtube.com/watch?v=o30nPgOgfv0
 - https://open.spotify.com/track/5Prf4wpKlnsqj9HTSW4BjW
+Referenced Tracks:
+- alphys lab (unused)
 ---
 Track: It's Showtime!
 Duration: 0:46
@@ -670,6 +673,7 @@ URLs:
 - https://www.youtube.com/watch?v=8CeYNJ-s0Kw
 - https://open.spotify.com/track/2FZ99j224ohiGLavqjijza
 Referenced Tracks:
+- undertale (unused)
 - Once Upon a Time
 Commentary: |-
     <i>Toby Fox:</i> ([Tumblr](https://undertale.tumblr.com/post/150356633250/before-the-song-undertale-was-completed-it-went), excerpt)
@@ -692,9 +696,9 @@ URLs:
 - https://www.youtube.com/watch?v=x1WBMSIGBDM
 - https://open.spotify.com/track/6NhXSjpsasGw0dad5CxBYu
 Referenced Tracks:
-- Undertale
+- track:undertale
 Sampled Tracks:
-- Undertale
+- track:undertale
 ---
 Track: Small Shock
 Duration: 0:14
@@ -807,7 +811,7 @@ URLs:
 - https://www.youtube.com/watch?v=YQlbR-XW0CQ
 - https://open.spotify.com/track/4Yqrr5SMB84skeJ8cupJgs
 Referenced Tracks:
-- Ruins
+- An Ending
 ---
 Track: Hopes and Dreams
 Duration: '3:01'
@@ -816,7 +820,7 @@ URLs:
 - https://open.spotify.com/track/7CMVo848b9LsUtVavIoiXC
 Referenced Tracks:
 - Once Upon a Time
-- Undertale
+- track:undertale
 - Your Best Friend
 - Snowdin Town
 Commentary: |-
@@ -923,7 +927,7 @@ URLs:
 - https://www.youtube.com/watch?v=O6pph2RMoPU
 - https://open.spotify.com/track/21Aur7G0jPU49v0Ag7ul4l
 Referenced Tracks:
-- Ruins
+- Don't Give Up
 ---
 Track: Battle Against a True Hero
 Duration: '2:36'
@@ -931,7 +935,7 @@ URLs:
 - https://www.youtube.com/watch?v=DcERQHg3iy8
 - https://open.spotify.com/track/6YnPqvc66bdYGGOJIlDEz1
 Referenced Tracks:
-- Ruins
+- Don't Give Up
 ---
 Track: Power of "NEO"
 Duration: 0:30

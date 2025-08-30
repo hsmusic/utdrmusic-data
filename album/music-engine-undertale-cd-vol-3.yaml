@@ -1,0 +1,125 @@
+Album: 'MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton'
+Artists:
+- MUSIC Engine
+Directory: music-engine-undertale-cd-vol-3
+Date: May 6, 2019
+#Date Added: February 5, 2024
+#URLs:
+#- 
+Color: '#00b95b'
+Cover Artists:
+- Yoshiaki Shirakura
+Groups:
+- Official Arrangements
+- group:official
+- UNDERTALE
+#Banner Artists:
+#- Toby Fox
+#- Niklink (edits for wiki)
+#Banner Dimensions: 1100x191
+#Banner File Extension: png
+#Banner Style: |-
+#    image-rendering: pixelated;
+#    image-rendering: crisp-edges;
+#Wallpaper Artists:
+#- Toby Fox
+#Wallpaper File Extension: png
+#Additional Files:
+#- Title: Bandcamp Banner
+#  Files:
+#  - banner.png
+Commentary: |-
+    <i>MUSIC Engine:</i> ([TuneCore Japan](https://linkco.re/c7f29t3t?lang=en), excerpt)
+
+    The third orchestral arrangement album by [[artist:music-engine]]. All live recorded and featuring on "Alphys and Mettation" from "UNDERTALE." ##Mettation lmao
+---
+Track: Start Menu
+Directory: start-menu-music-engine-vol-3
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '0:36'
+Referenced Tracks:
+- Start Menu #Replace with Menu from Demo OST once added to wiki
+---
+Track: Alphys / It's Showtime! / Metal Crusher / Spider Dance
+Directory: alphys-its-showtime-metal-crusher-spider-dance-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '4:59'
+Referenced Tracks:
+- Alphys
+- It's Showtime!
+- Metal Crusher
+- Spider Dance
+---
+Track: Hotel / Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything
+Directory: hotel-can-you-really-call-this-a-hotel-i-didnt-receive-a-mint-on-my-pillow-or-anything-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:44'
+Referenced Tracks:
+- Hotel
+- Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything
+---
+Track: Live Report / Death Report
+Directory: live-report-death-report-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '1:23'
+Referenced Tracks:
+- Live Report
+- Death Report
+---
+Track: Oh! One True Love / Oh! Dungeon
+Directory: oh-one-true-love-oh-dungeon-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:00'
+Referenced Tracks:
+- Oh! One True Love
+- Oh! Dungeon
+---
+Track: CORE / Death by Glamour
+Directory: core-death-by-glamour-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '3:56'
+Referenced Tracks:
+- CORE
+- Death by Glamour
+---
+Track: For the Fans
+Directory: for-the-fans-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '1:49'
+Referenced Tracks:
+- For the Fans

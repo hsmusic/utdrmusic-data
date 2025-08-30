@@ -1,0 +1,95 @@
+Album: 'MUSIC Engine UNDERTALE CD Vol.2: Toriel'
+Artists:
+- MUSIC Engine
+Directory: music-engine-undertale-cd-vol-2
+Date: December 30, 2018
+#Date Added: February 5, 2024
+#URLs:
+#- 
+Color: '#ff8218'
+Cover Artists:
+- Yoshiaki Shirakura
+Groups:
+- Official Arrangements
+- group:official
+- UNDERTALE
+#Banner Artists:
+#- Toby Fox
+#- Niklink (edits for wiki)
+#Banner Dimensions: 1100x191
+#Banner File Extension: png
+#Banner Style: |-
+#    image-rendering: pixelated;
+#    image-rendering: crisp-edges;
+#Wallpaper Artists:
+#- Toby Fox
+#Wallpaper File Extension: png
+#Additional Files:
+#- Title: Bandcamp Banner
+#  Files:
+#  - banner.png
+Commentary: |-
+    <i>MUSIC Engine:</i> ([TuneCore Japan](https://linkco.re/VXV4fXFu?lang=ens), excerpt)
+
+    The second orchestral arrangement album by [[artist:music-engine]]. All live recorded and featuring on "Toriel" from "UNDERTALE."
+---
+Track: Start Menu
+Directory: start-menu-music-engine-vol-2
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '0:35'
+Referenced Tracks:
+- Start Menu #Replace with Menu from Demo OST once added to wiki
+---
+Track: Ruins
+Directory: ruins-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '1:34'
+Referenced Tracks:
+- Ruins
+---
+Track: Anticipation / Enemy Approaching
+Directory: anticipation-enemy-approaching-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:21'
+Referenced Tracks:
+- Anticipation
+- Enemy Approaching
+---
+Track: Home (Strings Ver.)
+Directory: home-strings-ver-music-engine
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:52'
+Referenced Tracks:
+- Home (Music Box)
+---
+Track: Toriel Medley (MUSIC Engine Ver.)
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '8:31'
+Referenced Tracks:
+- Home
+- Determination
+- Heartache
+- Fallen Down (Reprise)

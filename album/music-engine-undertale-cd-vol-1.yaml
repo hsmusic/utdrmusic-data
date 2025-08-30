@@ -1,0 +1,113 @@
+Album: 'MUSIC Engine UNDERTALE CD Vol.1: Undyne'
+Artists:
+- MUSIC Engine
+Directory: music-engine-undertale-cd-vol-1
+Date: June 16, 2018
+#Date Added: February 5, 2024
+#URLs:
+#- 
+Color: '#263dd3' #todo: brighter color
+Cover Artists:
+- Yoshiaki Shirakura
+Groups:
+- Official Arrangements
+- group:official
+- UNDERTALE
+#Banner Artists:
+#- Toby Fox
+#- Niklink (edits for wiki)
+#Banner Dimensions: 1100x191
+#Banner File Extension: png
+#Banner Style: |-
+#    image-rendering: pixelated;
+#    image-rendering: crisp-edges;
+#Wallpaper Artists:
+#- Toby Fox
+#Wallpaper File Extension: png
+#Additional Files:
+#- Title: Bandcamp Banner
+#  Files:
+#  - banner.png
+Commentary: |-
+    <i>MUSIC Engine:</i> ([TuneCore Japan](https://linkco.re/8vS5zyUz?lang=en), excerpt)
+
+    The very first orchestral arrangement album by [[artist:music-engine]]. All live recorded and featuring on "Undyne" from "UNDERTALE."
+---
+Track: Start Menu
+Directory: start-menu-music-engine-vol-1
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '0:35'
+Referenced Tracks:
+- Start Menu #Replace with Menu from Demo OST once added to wiki
+---
+Track: Waterfall
+Directory: waterfall-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '4:14'
+Referenced Tracks:
+- Waterfall
+- Quiet Water
+---
+Track: Memory
+Directory: memory-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:52'
+Referenced Tracks:
+- Memory
+- Undertale ##pizzicato strings
+---
+Track: NGAHHH!!
+Directory: ngahhh-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '1:58'
+Referenced Tracks:
+- NGAHHH!!
+---
+Track: Spear of Justice
+Directory: spear-of-justice-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:20'
+Referenced Tracks:
+- Spear of Justice
+---
+Track: Undyne Medley (MUSIC Engine Ver.)
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '10:14'
+Referenced Tracks: ##you could argue they should reference the MUSIC Engine arrangements where applicable instead of the originals. they are the same arrangements, however for consistency I've set them to reference the originals.
+- Waterfall
+- Undyne
+- Run!
+- Quiet Water
+- Memory
+- NGAHHH!!
+- Spear of Justice
+- She's Playing Piano

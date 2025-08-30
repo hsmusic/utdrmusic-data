@@ -1,0 +1,140 @@
+Album: 'MUSIC Engine UNDERTALE CD Vol.4: Sans & Papyrus'
+Artists:
+- MUSIC Engine
+Directory: music-engine-undertale-cd-vol-4
+Date: December 31, 2019
+#Date Added: February 5, 2024
+#URLs:
+#- 
+Color: '#32aaff'
+Cover Artists:
+- Yoshiaki Shirakura
+Groups:
+- Official Arrangements
+- group:official
+- UNDERTALE
+#Banner Artists:
+#- Toby Fox
+#- Niklink (edits for wiki)
+#Banner Dimensions: 1100x191
+#Banner File Extension: png
+#Banner Style: |-
+#    image-rendering: pixelated;
+#    image-rendering: crisp-edges;
+#Wallpaper Artists:
+#- Toby Fox
+#Wallpaper File Extension: png
+#Additional Files:
+#- Title: Bandcamp Banner
+#  Files:
+#  - banner.png
+Commentary: |-
+    <i>MUSIC Engine:</i> ([TuneCore Japan](https://linkco.re/TGTsEshr?lang=en), excerpt)
+
+    The fourth orchestral arrangement album by [[artist:music-engine]]. All live recorded and featuring on "Sans and Papyrus" from "UNDERTALE."
+---
+Track: Start Menu
+Directory: start-menu-music-engine-vol-4
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '0:36'
+Referenced Tracks:
+- Start Menu #Replace with Menu from Demo OST once added to wiki
+---
+Track: sans.
+Directory: sans-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '0:51'
+Referenced Tracks:
+- sans.
+---
+Track: Bonetrousle
+Directory: bonetrousle-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:04'
+Referenced Tracks:
+- Bonetrousle
+- sans.
+---
+Track: Snowdin Town
+Directory: snowdin-town-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '5:15'
+Referenced Tracks:
+- Snowdin Town
+- Dating Start!
+- Undertale
+---
+Track: Premonition / It's Raining Somewhere Else
+Directory: premonition-its-raining-somewhere-else-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '3:47'
+Referenced Tracks:
+- Premonition
+- It's Raining Somewhere Else
+---
+Track: Dating Start! / Dating Tense! / Dating Fight!
+Directory: dating-start-dating-tense-dating-fight-else-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '3:58'
+Referenced Tracks:
+- Dating Start!
+- Dating Tense!
+- Dating Fight!
+---
+Track: Nyeh Heh Heh! / Snowy / Snowdin Town / Shop / Bonetrousle
+Directory: nyeh-heh-heh-snowy-snowdin-town-shop-bonetrousle-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '5:57'
+Referenced Tracks:
+- Nyeh Heh Heh!
+- Snowy
+- Snowdin Town
+- Shop
+- Bonetrousle
+---
+Track: Song That Might Play When You Fight Sans
+Directory: song-that-might-play-when-you-fight-sans-music-engine
+Always Reference By Directory: True
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: '2:04'
+Referenced Tracks:
+- Song That Might Play When You Fight Sans
