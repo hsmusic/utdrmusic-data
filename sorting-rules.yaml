@@ -1,0 +1,13 @@
+# Miscellaneous files
+
+Message: Sort artists alphabetically
+Sort Documents: artists.yaml
+By Properties: [name, directory]
+
+# Additional Tracks
+
+---
+Message: Sort References Beyond Undertale alphabetically
+Sort Documents: album/references-beyond-undertale.yaml
+By Properties: [name, directory]
+Select Documents Under: Section

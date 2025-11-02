@@ -128,6 +128,17 @@ Aliases:
 ---
 Artist: Captain Pronin
 ---
+Artist: Carlos Eiene
+Aliases:
+- insaneintherainmusic
+URLs:
+- https://www.youtube.com/@insaneintherainmusic
+- https://insaneintherainmusic.bandcamp.com/
+- https://open.spotify.com/user/insaneintherainmusic
+- https://itunes.apple.com/us/artist/insaneintherainmusic/898452388
+- https://twitter.com/insanerainmusic
+- https://insaneintherainmusic.com/
+---
 Artist: casualclassical
 Aliases:
 - michellekchen
@@ -141,17 +152,6 @@ URLs:
 - https://ko-fi.com/michellekchen
 Dead URLs:
 - https://www.deviantart.com/contrairyart
----
-Artist: Carlos Eiene
-Aliases:
-- insaneintherainmusic
-URLs:
-- https://www.youtube.com/@insaneintherainmusic
-- https://insaneintherainmusic.bandcamp.com/
-- https://open.spotify.com/user/insaneintherainmusic
-- https://itunes.apple.com/us/artist/insaneintherainmusic/898452388
-- https://twitter.com/insanerainmusic
-- https://insaneintherainmusic.com/
 ---
 Artist: Cave Story
 ---
@@ -253,6 +253,9 @@ URLs:
 ---
 Artist: Dean Parks
 ---
+Artist: 'Determination: The Purple Side' #bottom because non-artist
+
+---
 Artist: DK's Musicbox
 ---
 Artist: Doctor Who
@@ -311,15 +314,15 @@ URLs:
 - https://twitter.com/flashygoodness
 - https://www.flashygoodness.com/
 ---
-Artist: Franz Xaver Gruber
----
-Artist: Frédéric Chopin
----
 Artist: fluidvolt
 URLs:
 - https://fluidvolt.bandcamp.com/
 - https://soundcloud.com/fluidvolt
 - https://twitter.com/fluidvolt
+---
+Artist: Franz Xaver Gruber
+---
+Artist: Frédéric Chopin
 ---
 Artist: GlitchedPie
 URLs:
@@ -428,16 +431,16 @@ Artist: John Goux
 ---
 Artist: Joseph Mohr
 ---
-Artist: Josiah Everhart
-Aliases:
-- Josiah McDaniel
----
 Artist: Joshua Morse
 URLs:
 - https://joshuamorse.bandcamp.com/
 - https://soundcloud.com/joshuamorse
 - https://twitter.com/joshuamorse
 - http://jmflava.com
+---
+Artist: Josiah Everhart
+Aliases:
+- Josiah McDaniel
 ---
 Artist: Journey
 ---
@@ -566,8 +569,6 @@ Artist: Lilithtreasure
 ---
 Artist: Luana Jackman
 ---
-Artist: Øneheart
----
 Artist: MacK
 URLs:
 - https://queeroddity.bandcamp.com/music
@@ -690,6 +691,10 @@ Artist: Nina Matsumoto
 ---
 Artist: Nintendo DREAM
 ---
+Artist: Nintendo Switch COMPILATION ALBUM 2024 Side A #bottom because non-artist
+---
+Artist: Nintendo Switch DOWNLOAD SOFT COMPILATION ALBUM #bottom because non-artist
+---
 Artist: Nise
 ---
 Artist: No Mana
@@ -708,6 +713,8 @@ URLs:
 - https://mastodon.social/@nysnamovois
 Dead URLs:
 - https://twitter.com/nysnamovois
+---
+Artist: Øneheart
 ---
 Artist: Pascal van den Bos
 Aliases:
@@ -948,12 +955,6 @@ Dead URLs:
 ---
 Artist: TeraCMusic
 ---
-Artist: The UTDR Fan Musicians
-Context Notes: |-
-    This is the name [[artist:unofficial-mspa-fans]] used to release [[album:kindred-souls]].
----
-Artist: The Winstons
----
 Artist: The8BitDrummer
 ---
 Artist: ThunderScott
@@ -1010,6 +1011,10 @@ Artist: TSUYOSHI OGASAWARA
 ---
 Artist: Twin Peaks
 ---
+Artist: UNDERTALE + deltarune FAN ENCORE CD #bottom because non-artist
+---
+Artist: UNDERTALE FAN SELECTION CD #bottom because non-artist
+---
 Artist: Undertale Wiki
 URLs:
 - https://undertale.fandom.com/
@@ -1023,6 +1028,10 @@ Context Notes: >-
     Sometimes, information on who is specifically responsible for a piece of music or art is not known. This is a catchall artist entry to list them in one place. If you have any information on who any of the artists listed here may be, please get in touch with us!
 ---
 Artist: Unofficial MSPA Fans
+---
+Artist: The UTDR Fan Musicians
+Context Notes: |-
+    This is the name [[artist:unofficial-mspa-fans]] used to release [[album:kindred-souls]].
 ---
 Artist: Vector U
 ---
@@ -1042,6 +1051,8 @@ URLs:
 - https://soundcloud.com/whats-this-thing-here
 ---
 Artist: windy_c3
+---
+Artist: The Winstons
 ---
 Artist: Witch's Cadence
 Aliases:
@@ -1078,13 +1089,3 @@ Directory: japtemp1
 ---
 Artist: 月
 Directory: japtemp2
----
-Artist: UNDERTALE + deltarune FAN ENCORE CD #bottom because non-artist
----
-Artist: UNDERTALE FAN SELECTION CD #bottom because non-artist
----
-Artist: Nintendo Switch DOWNLOAD SOFT COMPILATION ALBUM #bottom because non-artist
----
-Artist: Nintendo Switch COMPILATION ALBUM 2024 Side A #bottom because non-artist
----
-Artist: 'Determination: The Purple Side' #bottom because non-artist

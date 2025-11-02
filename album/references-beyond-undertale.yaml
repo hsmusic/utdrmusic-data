@@ -44,6 +44,15 @@ URLs:
 Referenced Tracks:
 - Game Main Theme (Piano Sketch)
 ---
+Track: Dog Check
+Duration: 0:41
+URLs:
+- https://www.youtube.com/watch?v=bDDhYZCsdPo
+Referenced Tracks:
+- Dogsong
+- Once Upon a Time
+- Game Main Theme (Piano Sketch)
+---
 Track: findher
 Artists:
 - Toby Fox
@@ -124,15 +133,6 @@ Referenced Tracks:
 Commentary: |-
     <i>Niklink:</i> (wiki editor, 8/6/2023)
     Originally shared in a 2012 Tumblr post as part of several [[album:made-up-yume-nikkis|"made up yume nikkis"]] snippets where it was known as [[track:waltz-of-seccom-masada|"waltz of seccom masada"]].
----
-Track: Dog Check
-Duration: 0:41
-URLs:
-- https://www.youtube.com/watch?v=bDDhYZCsdPo
-Referenced Tracks:
-- Dogsong
-- Once Upon a Time
-- Game Main Theme (Piano Sketch)
 ---
 Track: Room of Dog
 # No official release, duration is from the in-game audio loop.
@@ -306,18 +306,6 @@ URLs:
 ---
 Section: Music from video games
 ---
-Track: A Bad Dream
-# From Earthbound, which had an official album release but this track isn't on it.
-# Reference:
-#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
-Artists:
-- Mother
-- Keiichi Suzuki
-- Hirokazu Tanaka
-Duration: '1:25'
-URLs:
-- https://youtu.be/ZfmZdsoJYmI
----
 Track: Aria di Mezzo Carattere
 # JP: アリア ("Aria")
 # Official release:
@@ -333,6 +321,18 @@ Artists:
 Duration: '3:57'
 URLs:
 - https://www.youtube.com/watch?v=MLHR9ltzuWM
+---
+Track: A Bad Dream
+# From Earthbound, which had an official album release but this track isn't on it.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: '1:25'
+URLs:
+- https://youtu.be/ZfmZdsoJYmI
 ---
 Track: Bad Morning to You
 # From Earthbound, which had an official album release but this track isn't on it.
@@ -701,6 +701,12 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Title is lit. "The song of the musician". Some versions are known as "Ich bin ein Musikanten", lit. "I am a musician". This folk song originated in northwestern Germany sometime in the early 19th century. As with most folk music, it evolved from a shifting amalgamation of various earlier melodies— one notable one being a 1761 melody by Leopold Mozart, father of Wolfgang Amadeus Mozart. It's since spread in a variety of forms throughout eastern Europe, and in the 21st century, through China, Korea, and most importantly Japan, where it became a popular children's song. Lyrics here are based on a 19th century songbook.
 ---
+Track: The Entertainer
+Artists:
+- Scott Joplin
+URLs:
+- https://www.youtube.com/watch?v=wOXooOTe2Ho
+---
 Track: Good Morning to All
 Artists:
 - Mildred Hill
@@ -754,64 +760,6 @@ Artists:
 - Frédéric Chopin
 URLs:
 - https://www.youtube.com/watch?v=9E6b3swbnWg
----
-Track: Silent Night
-Artists:
-- Franz Xaver Gruber (melody)
-- Joseph Mohr (lyrics)
-URLs:
-- https://www.youtube.com/watch?v=nEH7_2c644Q
-Lyrics: |-
-    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
-    Alles schläft; einsam wacht (<i>All is calm, all is bright</i>)
-    Nur das traute heilige Paar (<i>Round yon godly tender pair</i>)
-    Holder Knab im lockigten Haar (<i>Holy infant with curly hair</i>)
-    Schlafe in himmlischer Ruh (<i>Sleep in heavenly peace</i>)
-    Schlafe in himmlischer Ruh (<i>Sleep in heavenly peace</i>)
-
-    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
-    Gottes Sohn, o wie lacht (<i>Son of God, love's pure light</i>)
-    Lieb' aus deinem göttlichen Mund (<i>Radiant beams from thy holy face</i>)
-    Da schlägt uns die rettende Stund. (<i>With the dawn of redeeming grace</i>)
-    Jesus in deiner Geburt (<i>Jesus, Lord at thy birth</i>)
-    Jesus in deiner Geburt (<i>Jesus, Lord at thy birth</i>)
-
-    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
-    Die der Welt Heil gebracht (<i>Brought the world gracious light</i>)
-    Aus des Himmels goldenen Höhn (<i>Down from heaven's golden height</i>)
-    Uns der Gnaden Fülle läßt sehn (<i>Comes to us the glorious sight</i>)
-    Jesum in Menschengestalt (<i>Jesus, as one of mankind</i>)
-    Jesum in Menschengestalt (<i>Jesus, as one of mankind</i>)
-
-    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
-    Wo sich heut alle Macht (<i>By his love, by his might </i>)
-    Väterlicher Liebe ergoß (<i>God our Father us has graced</i>)
-    Und als Bruder huldvoll umschloß (<i>As a brother gently embraced</i>)
-    Jesus die Völker der Welt (<i>Jesus, all nations on earth</i>)
-    Jesus die Völker der Welt (<i>Jesus, all nations on earth</i>)
-
-    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
-    Lange schon uns bedacht (<i>Long ago, minding our plight</i>)
-    Als der Herr vom Grimme befreit (<i>God the world from misery freed</i>)
-    In der Väter urgrauer Zeit (<i>In the dark age of our fathers decreed</i>)
-    Aller Welt Schonung verhieß (<i>All the world is redeemed</i>)
-    Aller Welt Schonung verhieß (<i>All the world is redeemed</i>)
-
-    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
-    Hirten erst kundgemacht (<i>Shepherds first saw the sight</i>)
-    Durch der Engel Alleluja (<i>Of angels singing alleluia</i>)
-    Tönt es laut bei Ferne und Nah: (<i>Calling clearly near and far</i>)
-    Jesus der Retter ist da (<i>Jesus, the saviour is born</i>)
-    Jesus der Retter ist da (<i>Jesus, the saviour is born</i>)
-Commentary: |-
-    <i>Niklink:</i> (wiki editor, 8/19/2022)
-    Also known as "Silent Night, Holy Night", this composition was originally written in German as "Stille Nacht, heilige Nacht". The most popular English version of the music includes only verses 1, 2, and 6, based on a 1859 translation by John Freeman Young. The provded translated lyrics are more faithful to the original German text and was made in 1998 by Bettina Klein.
----
-Track: The Entertainer
-Artists:
-- Scott Joplin
-URLs:
-- https://www.youtube.com/watch?v=wOXooOTe2Ho
 ---
 Track: The One Horse Open Sleigh
 Artists:
@@ -894,6 +842,58 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     Best known under its incipit name "Jingle Bells".
 ---
+Track: Silent Night
+Artists:
+- Franz Xaver Gruber (melody)
+- Joseph Mohr (lyrics)
+URLs:
+- https://www.youtube.com/watch?v=nEH7_2c644Q
+Lyrics: |-
+    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
+    Alles schläft; einsam wacht (<i>All is calm, all is bright</i>)
+    Nur das traute heilige Paar (<i>Round yon godly tender pair</i>)
+    Holder Knab im lockigten Haar (<i>Holy infant with curly hair</i>)
+    Schlafe in himmlischer Ruh (<i>Sleep in heavenly peace</i>)
+    Schlafe in himmlischer Ruh (<i>Sleep in heavenly peace</i>)
+
+    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
+    Gottes Sohn, o wie lacht (<i>Son of God, love's pure light</i>)
+    Lieb' aus deinem göttlichen Mund (<i>Radiant beams from thy holy face</i>)
+    Da schlägt uns die rettende Stund. (<i>With the dawn of redeeming grace</i>)
+    Jesus in deiner Geburt (<i>Jesus, Lord at thy birth</i>)
+    Jesus in deiner Geburt (<i>Jesus, Lord at thy birth</i>)
+
+    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
+    Die der Welt Heil gebracht (<i>Brought the world gracious light</i>)
+    Aus des Himmels goldenen Höhn (<i>Down from heaven's golden height</i>)
+    Uns der Gnaden Fülle läßt sehn (<i>Comes to us the glorious sight</i>)
+    Jesum in Menschengestalt (<i>Jesus, as one of mankind</i>)
+    Jesum in Menschengestalt (<i>Jesus, as one of mankind</i>)
+
+    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
+    Wo sich heut alle Macht (<i>By his love, by his might </i>)
+    Väterlicher Liebe ergoß (<i>God our Father us has graced</i>)
+    Und als Bruder huldvoll umschloß (<i>As a brother gently embraced</i>)
+    Jesus die Völker der Welt (<i>Jesus, all nations on earth</i>)
+    Jesus die Völker der Welt (<i>Jesus, all nations on earth</i>)
+
+    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
+    Lange schon uns bedacht (<i>Long ago, minding our plight</i>)
+    Als der Herr vom Grimme befreit (<i>God the world from misery freed</i>)
+    In der Väter urgrauer Zeit (<i>In the dark age of our fathers decreed</i>)
+    Aller Welt Schonung verhieß (<i>All the world is redeemed</i>)
+    Aller Welt Schonung verhieß (<i>All the world is redeemed</i>)
+
+    Stille Nacht! Heilige Nacht! (<i>Silent Night! Holy Night!</i>)
+    Hirten erst kundgemacht (<i>Shepherds first saw the sight</i>)
+    Durch der Engel Alleluja (<i>Of angels singing alleluia</i>)
+    Tönt es laut bei Ferne und Nah: (<i>Calling clearly near and far</i>)
+    Jesus der Retter ist da (<i>Jesus, the saviour is born</i>)
+    Jesus der Retter ist da (<i>Jesus, the saviour is born</i>)
+Commentary: |-
+    <i>Niklink:</i> (wiki editor, 8/19/2022)
+    Also known as "Silent Night, Holy Night", this composition was originally written in German as "Stille Nacht, heilige Nacht". The most popular English version of the music includes only verses 1, 2, and 6, based on a 1859 translation by John Freeman Young. The provded translated lyrics are more faithful to the original German text and was made in 1998 by Bettina Klein.
+---
 Track: Yama No Ongakuka
 Artists:
 - Katsuhisa Hattori (arrangement)
@@ -963,14 +963,6 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor)
     This demo was reused for many other Casio devices. Manuals and literature sometimes refer to it as "German Folk Song" (partially correct) or "Unterlanders Heimweh" (lit. "Lowlander's Homesickness") (which is a different German folk song, although later Casio devices actually used the correct song instead). Japanese materials correctly refer to it as a version of "Yama No Ongakuka".
 ---
-Track: Descend
-Artists:
-- Toby Fox
-Duration: 4:25
-URLs:
-- https://homestuck.bandcamp.com/track/descend-2
-- https://hsmusic.wiki/track/descend
----
 Track: Davesprite
 Artists:
 - Toby Fox
@@ -979,6 +971,14 @@ URLs:
 - https://homestuck.bandcamp.com/track/davesprite-2
 - https://youtu.be/Iy5fKp-aV4o
 - https://hsmusic.wiki/track/davesprite
+---
+Track: Descend
+Artists:
+- Toby Fox
+Duration: 4:25
+URLs:
+- https://homestuck.bandcamp.com/track/descend-2
+- https://hsmusic.wiki/track/descend
 ---
 Track: Doctor
 Artists:
@@ -1092,6 +1092,15 @@ URLs:
 - https://homestuck.bandcamp.com/track/moonsetter-2
 - https://youtu.be/75kJb_aAvKY
 - https://hsmusic.wiki/track/moonsetter
+---
+Track: The National Spamton
+Artists:
+- Radio TV Solutions
+Duration: 0:32
+URLs:
+- https://youtu.be/61zGGtTdv5s?t=145
+Referenced Tracks:
+- Happy Birthday to You
 ---
 Track: 'null'
 Directory: null-vol8
@@ -1235,6 +1244,14 @@ Duration: 5:24
 URLs:
 - https://www.youtube.com/watch?v=uH64qV71uUQ
 ---
+Track: The Shepherd's Boy
+Artists:
+- Doctor Who
+- Murray Gold
+Duration: 4:47
+URLs:
+- https://www.youtube.com/watch?v=vAhnulFTYo8
+---
 Track: Soul Of Bobby - Part 1 - Instrumental
 Artists:
 - Bobby
@@ -1258,23 +1275,6 @@ Referenced Tracks:
 - Power of "NEO"
 - CORE
 - Death by Glamour
----
-Track: The National Spamton
-Artists:
-- Radio TV Solutions
-Duration: 0:32
-URLs:
-- https://youtu.be/61zGGtTdv5s?t=145
-Referenced Tracks:
-- Happy Birthday to You
----
-Track: The Shepherd's Boy
-Artists:
-- Doctor Who
-- Murray Gold
-Duration: 4:47
-URLs:
-- https://www.youtube.com/watch?v=vAhnulFTYo8
 ---
 Track: 'this is like... what was it... > [S] MSPAR: Remember'
 Additional Names:
