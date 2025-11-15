@@ -1,0 +1,115 @@
+Motif: Once Upon a Time A
+Additional Names:
+- '[[Undertale]] piano part'
+ABC Notation: |-
+  X:1
+  K:C
+  L:1/4
+  CcG2|FcC2|CFcd|cGF2
+---
+Motif: Once Upon a Time B
+Additional Names:
+- '[[Undertale]] flute part'
+---
+Motif: Once Upon a Time C
+---
+Motif: Flowey
+ABC Notation: |-
+  X:1
+  K:Ab
+  M:C
+  L:1/4
+  cc/2d/2ec|dd/2e/2BE|cc/2d/2eA'|f2e/2z/2z
+---
+Motif: Toriel
+ABC Notation: |-
+  K:D
+  L:1/8
+  M:3/4
+  fc fc fc|fc fc fc|BAc2AB| e^d ef dB
+---
+Motif: Underground
+ABC Notation: |+
+  K:F#
+  L:1/8
+  M:6/8
+  |:G,DB,2A,B,|Cz4F,:|d3g2 b|gz ab c'a|b3a2g/2f/2|ez bc' d'e'
+
+---
+Motif: Hotland
+ABC Notation: |-
+  K:G
+  M:C
+  L:1/8
+  EBfd eBGB|EBfg agfd
+---
+Motif: Controls
+---
+Motif: Approach
+ABC Notation: |-
+
+  L:1/8
+  M:C
+  K:Gm
+  z2dz zBz2|=E2FE- EDEG||
+  K:Db
+  z2A2zFz|D2ED- DA,B,D
+---
+Motif: Ghost
+---
+Motif: Determination
+---
+Motif: Sans
+ABC Notation: |-
+  K:F#
+  M:C
+  L:1/8
+  z2F2E2z2|zG FD-DCB,C|z2F2E2z2|zG F=D-DCB,2
+---
+Motif: Papyrus
+---
+Motif: Hopes
+---
+Motif: Dreams
+---
+Motif: Undyne
+---
+Motif: Asriel
+Additional Names:
+- Undertale guitar part
+ABC Notation: |-
+  K:E
+  L:1/4
+  M:C
+  EBAE GE/2G1/2-GA|zE AE GE/2G1/2-GA
+---
+Motif: Alphys
+ABC Notation: |-
+  X:1
+  K:Gmin
+  M:3/4
+  L:1/4
+  Bcd/2e/2|f3|Bc=e/2f/2|g3
+---
+Motif: Showtime
+---
+Motif: Hotel
+---
+Motif: Mettaton
+---
+Motif: Asgore
+ABC Notation: |-
+  X:1
+  K:E
+  M:C
+  L:1/8
+  Ez Gz F4|Dz Fz E4|Cz EzD4|B,z Cz G,4
+---
+Motif: Nightmare
+---
+Motif: Gaster
+ABC Notation: |-
+  K:F
+  M:2/4
+  L:1/8
+  |:ABfB|ABfB:||:_A=AeA|_A=AeA:|
